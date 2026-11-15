@@ -1,13 +1,13 @@
-# Sahl - Vector AutoInstaller APK
+# mgroot - Vector AutoInstaller APK
 
-## سهل
-Sahl is an Android APK archive for Vector AutoInstaller.
+## About mgroot
+mgroot is an Android APK archive for Vector AutoInstaller.
 
 ## Download
-[Download com.vector.autoinstaller-1.0.13.apk](https://github.com/M-G-MG/Sahl/releases/download/v1.0.13/com.vector.autoinstaller-1.0.13.apk)
+[Download com.vector.autoinstaller-1.0.13.apk](https://github.com/M-G-MG/mgroot/releases/download/v1.0.13/com.vector.autoinstaller-1.0.13.apk)
 
 ## Details
-- Name: Sahl (سهل) - Vector AutoInstaller
+- Name: mgroot - Vector AutoInstaller
 - Package: `com.vector.autoinstaller`
 - Version: `1.0.13` (version code 13)
 - File: `com.vector.autoinstaller-1.0.13.apk` (34 MB)
@@ -15,4 +15,4 @@ Sahl is an Android APK archive for Vector AutoInstaller.
 - Source code is not included in this repository.
 
 ## العربية
-سهل هو مستودع ملف APK لتطبيق Vector AutoInstaller لنظام Android. نزّل الإصدار `1.0.13` من الرابط أعلاه. معرّف الحزمة `com.vector.autoinstaller`.
+mgroot هو مستودع ملف APK لتطبيق Vector AutoInstaller لنظام Android. نزّل الإصدار `1.0.13` من الرابط أعلاه. معرّف الحزمة `com.vector.autoinstaller`.
